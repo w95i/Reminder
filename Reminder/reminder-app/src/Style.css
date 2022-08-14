@@ -1,0 +1,42 @@
+.color-body {
+    height: 100vh;
+    background-color: #495C83;
+  }
+  .font {
+    font-family: "Almarai", sans-serif;
+    font-size: 20px;
+    color: white;
+  }
+  
+  .rectangle {
+    height: 600px;
+    border-radius: 15px;
+    background-color: #C8B6E2;
+    box-shadow: 1px 4px 4px 1px rgba(176, 175, 238, 0.25);
+  }
+  
+  .dates-count {
+    color: #555555;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  
+  .bt-style {
+    width: 200px;
+    border-radius: 70px;
+    color: white;
+    background-color: #7A86B6;
+  }
+  
+  .img-avatar {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+  }
+  
+  .mt-0 {
+    margin-top: 0;
+  }
+  .color-dark{
+    color: black;
+  }
